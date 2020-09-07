@@ -1,2 +1,2 @@
 # uniceub_sysop
-Desenvolvimento do Sistema Operacional (Debian).
+Remasterização do Sistema Operacional (Debian).
